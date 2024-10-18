@@ -5,8 +5,8 @@ Presentazione del progetto "Think in 3d" per il Contamintaion Lab di Urbino il 1
 <br>
 
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
-[![Compilation_Test](https://github.com/R0mb0/Presentazione_Contamination_Lab_Urbino_2024/actions/workflows/Compilation_Test.yml/badge.svg)](https://github.com/R0mb0/Presentazione_Contamination_Lab_Urbino_2024/actions/workflows/Compilation_Test.yml)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b73ac1bb70254703a48b431099173d91)](https://app.codacy.com/gh/R0mb0/Presentazione_Contamination_Lab_Urbino_2024/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Compilation_Test](https://github.com/R0mb0/Presentazione_Start_Cup_Marche_2024/actions/workflows/Compilation_Test.yml/badge.svg)](https://github.com/R0mb0/Presentazione_Start_Cup_Marche_2024/actions/workflows/Compilation_Test.yml)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/08678d09939145e687a78a4111209be6)](https://app.codacy.com/gh/R0mb0/Presentazione_Start_Cup_Marche_2024/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/R0mb0/Presentazione_Contamination_Lab_Urbino_2024)
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/R0mb0/Presentazione_Contamination_Lab_Urbino_2024)
