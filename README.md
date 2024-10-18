@@ -22,6 +22,7 @@ Presentazione del progetto "Think in 3d" per la Start Cup Mache 23/10/24
 <br>
 <br>
 
+⚠️ This is a fork from [Presentazione_Contamination_Lab_Urbino_2024](https://github.com/R0mb0/Presentazione_Contamination_Lab_Urbino_2024)
 
 ---
 
