@@ -1,7 +1,10 @@
+<div>
 <img align="right" src="https://contaminationlab.uniurb.it/wp-content/uploads/2017/02/CONTAMINATIONLAB_WEB.png">
-<h1> Presentazione Contamination Lab Urbino 2024</h1>
-Presentazione del progetto "Think in 3d" per il Contamintaion Lab di Urbino il 17/6/24
+<h1> Presentazione Start Cup Marche 2024</h1>
+Presentazione del progetto "Think in 3d" per la Start Cup Mache 23/10/24
 <br>
+<img align="right" src="https://github.com/R0mb0/Presentazione_Start_Cup_Marche_2024/blob/main/ReadMe_images/logo_StartCup.png" width=35% height=35%>
+</div>
 <br>
 
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
