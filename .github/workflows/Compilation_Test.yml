@@ -15,7 +15,7 @@ jobs:
           working_directory: Presentazione
           root_file: Presentazione.tex
       - name: Upload compiled file
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with: 
           name: Presentazione
           path: Presentazione/Presentazione.pdf
